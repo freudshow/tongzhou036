@@ -2,7 +2,7 @@
   "CCOTimeOut": 60,
   "ReadMeterMode": 0,
   "ReadintervalMs": 1000,
-  "WaitCount": 7,
+  "WaitCount": 12,
   "PortConfig": {
     "PortType": 0,
     "PortPara": {
